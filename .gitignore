@@ -1,0 +1,6 @@
+*.tar.gz
+tests/output
+*DS_Store
+*.swp
+changelogs/.plugin-cache.yaml
+plugins/modules/__pycache__/
